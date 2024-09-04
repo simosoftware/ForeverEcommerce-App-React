@@ -97,7 +97,7 @@ export const assets = {
 
 export const products = [
     {
-        _id: "aaaaa",
+        _id: "Women Round Neck Cotton Top",
         name: "Women Round Neck Cotton Top",
         description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
         price: 100,

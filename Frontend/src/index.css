@@ -4,18 +4,23 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 a.active hr {
-    display: block
-  }
+  display: block;
+}
 
-*{
-    font-family: "Outfit";
+* {
+  font-family: 'Outfit';
 }
 
 .prata-regular {
-  font-family: "Prata", serif;
+  font-family: 'Prata', serif;
   font-weight: 400;
   font-style: normal;
+}
+
+@media (max-width: 640px) {
+  a.active {
+    background-color: #000000;
+    color: #ffffff;
+  }
 }
