@@ -1,6 +1,6 @@
 const Collection = () => {
   return (
-    <div>Collection</div>
+    <div>Collection </div>
   )
 }
 
